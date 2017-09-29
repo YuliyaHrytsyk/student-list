@@ -2,3 +2,5 @@ Subject: Databases
 
 EKK-41 Student list
 1.Rakova Anastasiia
+
+12.Dunets Sofiia
