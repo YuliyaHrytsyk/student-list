@@ -1,4 +1,6 @@
 Subject: Databases
 
 EKK-41 Student list
-1.Rakova Anastasiia
+1.Arama Olga
+18.Rakova Anastasiia 
+
